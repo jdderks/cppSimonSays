@@ -1,0 +1,3 @@
+﻿  SimonSays.cpp
+c:\users\j_d_d\source\repos\simonsays\simonsays\simonsays.cpp(104): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SimonSays.vcxproj -> C:\Users\j_d_d\source\repos\SimonSays\Debug\SimonSays.exe
